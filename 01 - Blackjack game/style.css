@@ -1,0 +1,57 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    background-color: rgb(54, 54, 56);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 42px;
+    color: goldenrod;
+    justify-content: center;
+    justify-items: center;
+}
+
+p {
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: bold;
+    align-content: left;
+}
+
+#message-El {
+    font-style: italic;
+}
+
+#start-game {
+    background-color: goldenrod;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    font-weight: bold;
+    font-size: 24px;
+    color:whitesmoke;
+    border-radius: 8px;
+    border:  none;
+}
+
+#new-card {
+    background-color: goldenrod;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    font-weight: bold;
+    font-size: 24px;
+    color:whitesmoke;
+    border-radius: 8px;
+    border:  none;
+}
